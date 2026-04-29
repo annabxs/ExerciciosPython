@@ -1,1 +1,1 @@
-# ExerciciosPython - Anna Beatriz e Gabriel do Carmo
+# ExerciciosPython - Anna Beatriz e Guilherme Tamashiro
